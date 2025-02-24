@@ -1,0 +1,15 @@
+<!-- Enlace de importación de la fuente-->
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Grechen+Fuemen&family=Patrick+Hand+SC&display=swap" rel="stylesheet">
+
+<!-- Archivo CSS para la fuente-->
+
+.grechen-fuemen-regular {
+  font-family: "Grechen Fuemen", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
